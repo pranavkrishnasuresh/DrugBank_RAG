@@ -1,0 +1,2 @@
+Input: How soluble is caffeine in water?
+Output: Caffeine has a solubility of about 2 g/L in cold water but is more soluble in hot water.

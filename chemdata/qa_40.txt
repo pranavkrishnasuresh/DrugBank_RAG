@@ -1,0 +1,2 @@
+Input: What are the safety hazards of phosphoric acid?
+Output: Phosphoric acid can cause skin and eye irritation; it is corrosive.

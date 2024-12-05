@@ -1,0 +1,2 @@
+Input: What is the molecular weight of sulfur dioxide?
+Output: The molecular weight of sulfur dioxide (SO2) is 64.07 g/mol.

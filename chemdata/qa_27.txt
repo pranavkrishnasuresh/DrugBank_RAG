@@ -1,0 +1,2 @@
+Input: What is the toxicity level of arsenic?
+Output: Arsenic is highly toxic; exposure can lead to severe health issues including cancer.

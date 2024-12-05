@@ -1,0 +1,2 @@
+Input: What is the density of gold?
+Output: The density of gold is approximately 19.32 g/cm³.

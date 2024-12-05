@@ -1,0 +1,2 @@
+Input: What are the safety hazards of hydrogen peroxide?
+Output: Hydrogen peroxide can cause skin and eye irritation and is a strong oxidizer.

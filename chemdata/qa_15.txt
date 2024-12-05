@@ -1,0 +1,2 @@
+Input: What are the physical properties of glycerol?
+Output: Glycerol is a colorless, odorless liquid with a melting point of 17.8°C and is highly soluble in water.

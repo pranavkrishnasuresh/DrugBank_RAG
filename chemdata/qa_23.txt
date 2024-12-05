@@ -1,0 +1,2 @@
+Input: What is the molecular weight of sodium bicarbonate?
+Output: The molecular weight of sodium bicarbonate (NaHCO3) is 84.01 g/mol.

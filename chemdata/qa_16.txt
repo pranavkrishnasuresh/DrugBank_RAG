@@ -1,0 +1,2 @@
+Input: What is the boiling point of isopropanol?
+Output: The boiling point of isopropanol (isopropyl alcohol) is 82.6°C.

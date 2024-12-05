@@ -1,0 +1,2 @@
+Input: What is the melting point of ice?
+Output: The melting point of ice is 0°C.

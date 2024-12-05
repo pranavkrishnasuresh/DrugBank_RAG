@@ -1,0 +1,2 @@
+Input: What is the solubility of lithium chloride in water?
+Output: Lithium chloride is highly soluble in water, with a solubility of about 83 g/100 mL at 25°C.

@@ -1,0 +1,2 @@
+Input: What is the boiling point of ethylene glycol?
+Output: The boiling point of ethylene glycol is approximately 197.6°C.

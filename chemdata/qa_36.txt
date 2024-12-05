@@ -1,0 +1,2 @@
+Input: What is the solubility of calcium carbonate in water?
+Output: Calcium carbonate is sparingly soluble in water, with a solubility of about 0.013 g/100 mL.

@@ -1,0 +1,2 @@
+Input: What is the boiling point of acetic acid?
+Output: The boiling point of acetic acid is 118.1°C.

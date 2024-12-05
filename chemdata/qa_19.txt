@@ -1,0 +1,2 @@
+Input: What is the solubility of potassium nitrate in water?
+Output: Potassium nitrate is very soluble in water, with a solubility of about 320 g/L at 20°C.

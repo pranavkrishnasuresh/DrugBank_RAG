@@ -1,0 +1,2 @@
+Input: What is the boiling point of water?
+Output: The boiling point of water is 100°C at standard atmospheric pressure.

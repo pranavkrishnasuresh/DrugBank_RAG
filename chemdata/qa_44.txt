@@ -1,0 +1,2 @@
+Input: What is the molecular weight of hydrochloric acid?
+Output: The molecular weight of hydrochloric acid (HCl) is 36.46 g/mol.

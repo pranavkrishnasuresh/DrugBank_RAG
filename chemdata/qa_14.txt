@@ -1,0 +1,2 @@
+Input: What is the molecular weight of ammonia?
+Output: The molecular weight of ammonia (NH3) is 17.03 g/mol.

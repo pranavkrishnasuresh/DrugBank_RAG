@@ -1,0 +1,2 @@
+Input: What are the physical properties of glucose?
+Output: Glucose is a white crystalline solid with a melting point of 146°C and is highly soluble in water.

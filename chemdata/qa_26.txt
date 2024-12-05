@@ -1,0 +1,2 @@
+Input: What are the physical properties of cholesterol?
+Output: Cholesterol is a waxy substance that is insoluble in water, with a melting point of about 148°C.

@@ -1,0 +1,2 @@
+Input: What is the solubility of urea in water?
+Output: Urea is highly soluble in water, with a solubility of about 1,000 g/L.

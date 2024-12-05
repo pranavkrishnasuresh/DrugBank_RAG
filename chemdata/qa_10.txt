@@ -1,0 +1,2 @@
+Input: What is the melting point of sodium chloride?
+Output: The melting point of sodium chloride (table salt) is 801°C.

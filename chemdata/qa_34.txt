@@ -1,0 +1,2 @@
+Input: What is the toxicity level of chlorine gas?
+Output: Chlorine gas is highly toxic; exposure can cause severe respiratory issues and lung damage.

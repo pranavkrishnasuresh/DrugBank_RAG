@@ -1,0 +1,2 @@
+Input: What is the flash point of gasoline?
+Output: The flash point of gasoline is approximately -43°C.

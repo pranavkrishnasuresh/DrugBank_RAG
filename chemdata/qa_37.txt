@@ -1,0 +1,2 @@
+Input: What is the density of mercury?
+Output: The density of mercury is approximately 13.53 g/cm³.

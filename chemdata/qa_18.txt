@@ -1,0 +1,2 @@
+Input: What is the density of ethanol?
+Output: The density of ethanol is approximately 0.789 g/cm³ at 20°C.

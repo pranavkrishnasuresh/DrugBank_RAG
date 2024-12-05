@@ -1,0 +1,2 @@
+Input: What is the toxicity level of cyanide?
+Output: Cyanide is extremely toxic; exposure can be fatal within minutes.

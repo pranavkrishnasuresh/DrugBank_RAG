@@ -1,0 +1,2 @@
+Input: What is the melting point of nylon?
+Output: The melting point of nylon varies but is generally around 220-260°C.

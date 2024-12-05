@@ -1,0 +1,2 @@
+Input: What is the density of benzene?
+Output: The density of benzene is approximately 0.8765 g/cm³ at 20°C.

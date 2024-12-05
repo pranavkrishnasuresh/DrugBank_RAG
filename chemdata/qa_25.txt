@@ -1,0 +1,2 @@
+Input: What is the solubility of silver chloride in water?
+Output: Silver chloride is poorly soluble in water, with a solubility of about 0.89 mg/L.

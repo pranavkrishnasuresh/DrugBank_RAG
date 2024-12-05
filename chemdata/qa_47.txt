@@ -1,0 +1,2 @@
+Input: What is the density of ice?
+Output: The density of ice is approximately 0.917 g/cm³.

@@ -1,0 +1,2 @@
+Input: What is the toxicity level of ethanol?
+Output: Ethanol has a moderate toxicity level; high doses can lead to central nervous system depression.

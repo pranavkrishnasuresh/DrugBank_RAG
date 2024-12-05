@@ -1,0 +1,2 @@
+Input: What are the physical properties of kerosene?
+Output: Kerosene is a flammable liquid with a boiling point range of 150-300°C and a density of about 0.81 g/cm³.

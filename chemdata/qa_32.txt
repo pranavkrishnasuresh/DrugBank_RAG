@@ -1,0 +1,2 @@
+Input: What is the melting point of lead?
+Output: The melting point of lead is 327.5°C.

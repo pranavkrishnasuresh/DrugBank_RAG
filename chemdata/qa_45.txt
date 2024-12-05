@@ -1,0 +1,2 @@
+Input: What are the physical properties of sulfur?
+Output: Sulfur is a yellow solid at room temperature with a melting point of 115.21°C.

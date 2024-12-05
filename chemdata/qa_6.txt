@@ -1,0 +1,2 @@
+Input: What is the molecular weight of carbon dioxide?
+Output: The molecular weight of carbon dioxide (CO2) is 44.01 g/mol.
